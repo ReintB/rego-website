@@ -1,9 +1,13 @@
 :root {
-  --primary-color: #f6f8fd;
-  --secondary-color: #dc3545;
-  --color-text: #231942;
-  --navbar-color: #ffffff;
-  --navbar-color-text: #000000;
+    --primary-color: #f6f8fd;
+    --secondary-color: #5fc95b;
+    --color-text: #000;
+    --navbar-color: #ffffff;
+    --navbar-color-text: #000000;
+    --yellow: #ffcc00;
+    --blue: #5AC8FA;
+    --purple: #BF5AF2;
+    --red: #FF453A;
 }
 
 
